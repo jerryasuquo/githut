@@ -49,7 +49,7 @@ return (
       <div className="main__text-container">
         <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" className="GitLogo"  alt=''/>
         <h1 className="main__title">
-        GitFetch - Profile Finder for GitHub
+        GitHut - Profile Finder for GitHub
         </h1>
         <p className="main__subtitle">
         Check out the repos, followers and more, just by entering a username!
